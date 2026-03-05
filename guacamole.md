@@ -1,6 +1,6 @@
 # guacamole
 ## ingredients
 *avocoo
-*lem
+*lem price 5
 *salt
 ## instrucrions
